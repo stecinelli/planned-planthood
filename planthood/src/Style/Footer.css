@@ -1,0 +1,114 @@
+.box-footer {
+  height: 644px;
+  position: relative;
+  width: 1004px;
+}
+
+.box-footer .footer-ish {
+  height: 644px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1012px;
+}
+
+.box-footer .overlap-group {
+  height: 590px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1004px;
+}
+
+.box-footer .rectangle {
+  height: 590px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.box-footer .img {
+  height: 590px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+
+.box-footer .div {
+  background-color: #000000c9;
+  height: 590px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 504px;
+}
+
+.box-footer .text-wrapper {
+  color: #ffffff;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  left: 135px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.box-footer .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 316px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 528px;
+  white-space: nowrap;
+}
+
+.box-footer .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 528px;
+  white-space: nowrap;
+}
+
+.box-footer .envelope-instance {
+  height: 35px !important;
+  left: 445px !important;
+  position: absolute !important;
+  top: 523px !important;
+  width: 35px !important;
+}
+
+.box-footer .path {
+  height: 28px;
+  left: 28px;
+  position: absolute;
+  top: 525px;
+  width: 27px;
+}
+
+.box-footer .text-wrapper-4 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 391px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 611px;
+}
