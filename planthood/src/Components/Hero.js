@@ -4,7 +4,7 @@ import seedling from "../assets/seedling.svg";
 import dig from "../assets/dig.svg";
 import logo from "../assets/Logo.svg";
 
-export const Hero = () => {
+const Hero = () => {
   return (
     <div className="box-hero">
       <div className="hero">
@@ -21,3 +21,4 @@ export const Hero = () => {
     </div>
   );
 };
+export default Hero;

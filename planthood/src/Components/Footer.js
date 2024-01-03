@@ -1,5 +1,4 @@
 import { Envelope } from "./Envelope";
-import "../Style/Footer.css";
 
 const Footer = () => {
   return (
