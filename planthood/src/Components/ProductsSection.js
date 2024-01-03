@@ -1,4 +1,5 @@
 import "../Style/ProductsSection.css";
+import Vectorseedpackage from "../assets/Vectorseedpackage.svg";
 
 const ProductsSection = () => {
   return (
@@ -13,7 +14,11 @@ const ProductsSection = () => {
             <div className="group-wrapper">
               <div className="group">
                 <div className="overlap-group-2">
-                  <img className="subtract" alt="Subtract" src="subtract.svg" />
+                  <img
+                    className="subtract"
+                    alt="Subtract"
+                    src={Vectorseedpackage}
+                  />
                   <img className="line" alt="Line" src="line-3.svg" />
                   <div className="rectangle" />
                   <div className="rectangle-2" />

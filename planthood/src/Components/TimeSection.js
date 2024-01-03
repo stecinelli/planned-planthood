@@ -1,3 +1,4 @@
+import plant from "../assets/plant.svg";
 import "../Style/TimeSection.css";
 
 const TimeSection = () => {
@@ -15,7 +16,7 @@ const TimeSection = () => {
         </p>
         <div className="plant-circle">
           <div className="overlap-group">
-            <img className="plant" alt="Plant" src="plant.svg" />
+            <img className="plant" alt="Plant" src={plant} />
           </div>
         </div>
       </div>

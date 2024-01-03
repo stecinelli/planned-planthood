@@ -1,3 +1,6 @@
+import button from "../assets/button-tips.png";
+import "../Style/TipsSection.css";
+
 const TipsSection = () => {
   return (
     <div className="box-tips">
@@ -9,7 +12,7 @@ const TipsSection = () => {
           Lorem ipsum dolor sit amet consectetur. Sit venenatis arcu nunc
           consectetur neque. Vel amet netus amet eu elit.
         </p>
-        <img className="button" alt="Button" src="button.png" />
+        <img className="button" alt="Button" src={button} />
       </div>
     </div>
   );
