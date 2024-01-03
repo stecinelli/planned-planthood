@@ -1,4 +1,3 @@
-import { Envelope } from "./Components/Envelope";
 import Hero from "./Components/Hero";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
