@@ -2,7 +2,7 @@ import "../Style/Navbar.css";
 
 const Navbar = () => {
   return (
-    <div className="box">
+    <div className="box-nav">
       <div className="nav-bg">
         <div className="nav">
           <div className="text-wrapper">PLANER</div>

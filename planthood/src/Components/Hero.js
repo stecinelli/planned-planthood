@@ -6,7 +6,7 @@ import logo from "../assets/Logo.svg";
 
 export const Hero = () => {
   return (
-    <div className="box">
+    <div className="box-hero">
       <div className="hero">
         <div className="overlap-group">
           <img className="seedling" alt="Seedling" src={seedling} />

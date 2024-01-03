@@ -1,9 +1,9 @@
-.box {
+.box-nav {
   height: 60px;
   width: 1001px;
 }
 
-.box .nav-bg {
+.box-nav .nav-bg {
   background-color: #ffffff;
   box-shadow: 0px 4px 4px #03382e1c;
   height: 60px;
